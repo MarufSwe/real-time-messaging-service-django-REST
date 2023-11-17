@@ -1,0 +1,7 @@
+# .gitignore
+
+# Exclude virtual environment
+venv/
+
+# Exclude PyCharm/IntelliJ IDEA files
+.idea/
